@@ -8,7 +8,7 @@ Planting trees has never been easier or more rewarding. Follow these simple step
 
 **Step 2: Unlock the Power of Growth**
 🌿 Scan the QR Code Below
-![QR Code](\images\TestQR.png)
+![QR Code](/images/TestQR.png)
 
 **Step 3: Nurture Your Forest**
 🌳 Open the app from your phone and start planting!
